@@ -7,7 +7,7 @@ public class git_test {
 			System.out.println("number: " + i + "입니다.");
 		}
 		System.out.println("test1");
-		System.out.println("test");
+		System.out.println("test2");
 	}
 
 }
