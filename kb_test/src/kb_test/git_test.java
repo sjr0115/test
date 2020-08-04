@@ -10,6 +10,7 @@ public class git_test {
 		System.out.println("test2");
 		System.out.println("test3 rebase");
 		System.out.println("test rrr");
+		System.out.println("test go");
 	}
 
 }
